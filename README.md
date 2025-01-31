@@ -1,7 +1,6 @@
 # Blockchain-Based Land Registration System
 
 
-_Link To Video Demonstration:_ [Video Demo](https://youtu.be/iBzmwk8mjUI?si=LXiNYXPRH0n6XtHg) <br>
 
 ## Contributors
 
@@ -120,12 +119,3 @@ With all the configuration done, we're ready to start the application!
    - You can now interact with the application and the smart contracts. Since we're using a local blockchain, there's no real money involved, making it safe to test out every feature.
 
 
-## Feedback
-
-Pull requests are welcome. For feedback and suggestions, please reach out at the following email: mangimasood2000@gmail.com or abdur8606@gmail.com. 
-
-## License
-
-2024 © The University of Hong Kong
-
-### _Stay Happy and Keep Smiling :)_
